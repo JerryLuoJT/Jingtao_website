@@ -1,6 +1,0 @@
----
-title: "Jingtao_website"
----
-
-Hi! My name is Jingtao Luo, you can call me Jerry. I'm a third year student in University of Toronto. I am major in Maths and Statistics. E-mail me at jingtao.luo\@mail.utoronto.ca.
-use_github()
